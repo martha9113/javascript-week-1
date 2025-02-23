@@ -1,5 +1,5 @@
 //declare 
-//first name,county,village ,religion
+/*first name,county,village ,religion*/
 
 //declare
 //last name,country,parent,bestfriend
@@ -9,14 +9,14 @@ let country ="uganda";
 let parent ="florence";
 let bestfriend ="musimenta";
 
-//declare
+/*declare
 //first name,last name,marital status,country,age
 
 //first name
 //last name
 //marital status
 //country 
-//age
+//age*/
 
 //assign e.g number of variables
 let  myAge=("I am 25 years old");
