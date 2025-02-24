@@ -73,5 +73,5 @@ console.log(salesRevenue)
 let value=3+4*5;
 console.log(value);
 
-let value=10/2*4+5-3
+let number=10/2*4+5-3
 console.l
