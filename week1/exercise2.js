@@ -27,3 +27,29 @@ let toLowerCase ="30 days of javascript"
 console.log(challenge)
 console.log(toUpperCase)
 console.log(toLowerCase)
+
+console.log(challenge.substring(0,2));
+console.log(challenge.substring(3))
+console.log(challenge.includes('Script'))
+console.log(challenge.split())
+console.log(challenge.split(' '))
+
+let companies="Facebook,Google,Microsoft,Apple,IBM,Oracle,Amazon"
+console.log(companies.split(' ,'))
+console.log(challenge.replace('JavaScript' ,'Python'))
+console.log(challenge.charAt(15))
+console.log(challenge.charCodeAt("11"))
+console.log(challenge.indexOf("a"))
+console.log(challenge.lastIndexOf("a"))
+
+
+let occurence="You cannot end a sentence with because because because is a junction"
+console.log(occurence.indexOf("because"))
+console.log(occurence.lastIndexOf("because"))
+console.log(challenge.search("because"))
+console.log(challenge.trim())
+console.log(challenge.startsWith("30"))
+console.log(challenge.endsWith(JavaScript))
+
+
+
