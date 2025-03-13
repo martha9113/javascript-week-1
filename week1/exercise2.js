@@ -49,7 +49,19 @@ console.log(occurence.lastIndexOf("because"))
 console.log(challenge.search("because"))
 console.log(challenge.trim())
 console.log(challenge.startsWith("30"))
-console.log(challenge.endsWith(JavaScript))
+console.log(challenge.endsWith("JavaScript"))
+console.log(challenge.match(/a/g))
+
+let one ="30 Days of"
+let two="JavaScript"
+console.log(one.concat(" ", two));
+
+console.log(challenge.repeat(2))
+
+
+
+
+
 
 
 

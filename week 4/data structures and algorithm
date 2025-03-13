@@ -1,0 +1,23 @@
+//stack
+const s = new Stack();
+s.push(1);
+s.push(2);
+console.log(s.pop());  // Output: 2
+console.log(s.peek());  // Output: 1
+
+
+//queue
+// Example usage:
+const q = new Queue();
+q.enqueue(1);
+q.enqueue(2);
+console.log(q.dequeue());  // Output: 1
+console.log(q.front());  // Output: 2
+
+
+//bubble sort algorithm
+const arr = [64, 34, 25, 12, 22, 11, 90];
+bubbleSort(arr);
+console.log("Sorted array:", arr);
+
+

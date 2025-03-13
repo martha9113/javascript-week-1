@@ -34,3 +34,31 @@ console.log(sweets)
     console.log("not available")
 };
     
+
+let day =5;
+let activity;
+switch(day){
+    case 1:
+        console.log("sunday");
+        break;
+
+        case 2:
+            console.log("Monday")
+            break;
+
+            case 3:
+                console.log("tuesday")
+                break;
+
+                case 3:
+                    console.log("Wednesday")
+                    break;
+
+                    case 4:
+                        console.log("Thursday")
+                        break;
+
+                        default:
+                            console.log("invalid day")
+
+}

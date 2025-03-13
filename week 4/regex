@@ -1,0 +1,17 @@
+/*match method
+const regex = /hello/;
+const str = "hello world";
+const result = regex.test(str); // returns true
+console.log(result);*/
+
+/*match all occurances (global flag)
+const regex = /\d+/g; // 'g' flag for global match
+const str = "I have 2 apples and 5 oranges.";
+const result = str.match(regex); // returns ['2', '5']
+console.log(result);*/
+
+//date
+const regex = /(\d{4})-(\d{2})-(\d{2})/;
+const str = "2025-03-13";
+const result = str.match(regex); // returns ['2025-03-13', '2025', '03', '13']
+console.log(result);
