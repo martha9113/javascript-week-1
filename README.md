@@ -1,1 +1,1 @@
-# javascript-week-1
+# javascript-weeks
